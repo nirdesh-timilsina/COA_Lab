@@ -19,4 +19,3 @@ for i in range (3,-1,-1):
     sum_ans = str(s)+sum_ans
 
 print (f"A: {A},B: {B},sum :{sum_ans}, carry : {c}")
-
